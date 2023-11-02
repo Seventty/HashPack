@@ -3,7 +3,35 @@ Custom Firmware Package for Nintendo Switch
 
 ## Features
 
+### HashPack Pro
+* [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere)
+* [Aio Switch Updater](https://github.com/HamletDuFromage/aio-switch-updater)
+* [DBI INSTALLER](https://github.com/rashevskyv/dbi/)
+* [Daybreak](https://switchscene.org/resources/daybreak.148/download)
+* [Deepsea-Toolbox](https://github.com/Team-Neptune/DeepSea-Toolbox)
+* [EdiZon](https://github.com/thomasnet-mc/EdiZon)
+* [Emuiibo](https://github.com/XorTroll/emuiibo)
+* [Goldleaf](https://github.com/XorTroll/Goldleaf)
+* [HB appStore](https://gitlab.com/4TU/hb-appstore)
+* [Hekate](https://github.com/CTCaer/hekate)
+* [JKSV](https://github.com/J-D-K/JKSV)
+* [Mission Control](https://github.com/ndeadly/MissionControl)
+* [NX-Shell](https://github.com/joel16/NX-Shell)
+* [Sigpatch-updater](https://github.com/ITotalJustice/sigpatch-updater)
+* [Switch Homebrew Menu](https://github.com/switchbrew/nx-hbmenu)
+* [Sys-clk Manager](https://github.com/retronx-team/sys-clk)
+* [Sys-con](https://github.com/cathery/sys-con)
+* [Sys-dvr](https://github.com/exelix11/SysDVR)
+* [Sys-ftpd](https://github.com/cathery/sys-ftpd)
 
+### HashPack Tiny
+* [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere)
+* [Aio Switch Updater](https://github.com/HamletDuFromage/aio-switch-updater)
+* [DBI INSTALLER](https://github.com/rashevskyv/dbi/)
+* [Daybreak](https://switchscene.org/resources/daybreak.148/download)
+* [Deepsea-Toolbox](https://github.com/Team-Neptune/DeepSea-Toolbox)
+* [JKSV](https://github.com/J-D-K/JKSV)
+* [Sigpatch-updater](https://github.com/ITotalJustice/sigpatch-updater)
 
 ## Documentation
 | Software | Description |
